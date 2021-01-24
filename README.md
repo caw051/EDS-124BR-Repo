@@ -12,6 +12,6 @@ Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan -> https://
 
 Week 3 Links:
 
-Peer-graded Assignment: Show What You Know: Write and Explain A Program(Events) - https://youtu.be/mIsGDPNAOfE
+Peer-graded Assignment: Show What You Know: Write and Explain A Program(Nested Loops) - https://youtu.be/mIsGDPNAOfE
 
 Peer-graded Assignment: Show What You Know: Write and Explain A Program(Events) - https://youtu.be/zkDbbbqVPkE
