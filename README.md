@@ -9,3 +9,7 @@ Week 2 Links:
 Peer-graded Assignment: Show What You Know: Write and Explain A Program -> https://youtu.be/0LSvrqb-MGY
 
 Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan -> https://youtu.be/oOOFKt7vwZ4
+
+Week 3 Links:
+
+Peer-graded Assignment: Show What You Know: Write and Explain A Program(Monkey & Banana) - https://youtu.be/zkDbbbqVPkE
