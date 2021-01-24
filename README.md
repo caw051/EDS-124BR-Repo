@@ -15,3 +15,21 @@ Week 3 Links:
 Peer-graded Assignment: Show What You Know: Write and Explain A Program(Nested Loops) - https://youtu.be/mIsGDPNAOfE
 
 Peer-graded Assignment: Show What You Know: Write and Explain A Program(Events) - https://youtu.be/zkDbbbqVPkE
+
+Week 4 Links:
+
+Peer-graded Assignment: Show What You Know: Write and Explain A Program(Variables) - https://youtu.be/ff6RW-DWtIQ
+
+Week 4 Links:
+
+Week 5 Links:
+
+Week 6 Links:
+
+Week 7 Links:
+
+Week 8 Links:
+
+Week 9 Links:
+
+Week 10 Links:
