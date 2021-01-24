@@ -12,4 +12,4 @@ Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan -> https://
 
 Week 3 Links:
 
-Peer-graded Assignment: Show What You Know: Write and Explain A Program(Monkey & Banana) - https://youtu.be/zkDbbbqVPkE
+Peer-graded Assignment: Show What You Know: Write and Explain A Program(Events) - https://youtu.be/zkDbbbqVPkE
