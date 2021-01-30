@@ -22,7 +22,7 @@ Peer-graded Assignment: Show What You Know: Write and Explain A Program(Variable
 
 Week 5 Links:
 
-Peer-graded Assignment: Show What You Know: Write and Explain A Program(Conditional Loops) - https://youtu.be/LmFRE4dwxxA
+Peer-graded Assignment: Show What You Know: Write and Explain A Program(Conditional Loops) - https://youtu.be/8N2MAwVSJPI
 
 Week 6 Links:
 
