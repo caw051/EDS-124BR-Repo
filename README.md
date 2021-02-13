@@ -26,7 +26,7 @@ Peer-graded Assignment: Show What You Know: Write and Explain A Program(Conditio
 
 Week 6 Links:
 
-Peer-graded Assignment: Show What You Know: Write and Explain A Program(If-else statements) - https://youtu.be/nRXUC1qie2s
+Peer-graded Assignment: Show What You Know: Write and Explain A Program(If statements) - https://youtu.be/nRXUC1qie2s
 
 Week 7 Links:
 
